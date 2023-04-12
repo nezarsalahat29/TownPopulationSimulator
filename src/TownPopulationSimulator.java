@@ -14,7 +14,7 @@ public class TownPopulationSimulator {
     public static ConcurrentHashMap<Integer, Integer> deathOfYear = new ConcurrentHashMap<>();
 
     // Define a method to get the population count for a given year
-    public static int getPopulation(int year){
+    public static int getPopulationOfYear(int year){
         if (populationOfYear.get(year)==null)
             return 0;
         return populationOfYear.get(year);
@@ -44,7 +44,7 @@ public class TownPopulationSimulator {
             System.out.print("Enter what year u want OR enter 0 to exit: ");
             int year = scanner.nextInt();
             if (year==0) break;
-            System.out.println("Population at " + year + " is: " + getPopulation(year));
+            System.out.println("Population at " + year + " is: " + getPopulationOfYear(year));
         }
         // Shut down the ExecutorService
         simulator.stop();
