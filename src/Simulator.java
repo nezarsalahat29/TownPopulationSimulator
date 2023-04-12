@@ -44,13 +44,14 @@ public class Simulator implements Runnable {
         // Loops through the random number of births and adds new Person objects to the town
         while (randomNumberOfBirths--!=0) {
             int age = random.nextInt(90);
-            Person person = new Person(TownPopulationSimulator.currentYear, age);
+            int personDeathYear=TownPopulationSimulator.currentYear+age;
+            //Person person = new Person(TownPopulationSimulator.currentYear, age);
             // If person died in the same year of birth don't add it or count it
             if (age != 0) {
                 counterOfAlive++;
-                int deathYearCounter = TownPopulationSimulator.getDeathOfYear(person.getDeathYear())+ 1;
+                int deathYearCounter = TownPopulationSimulator.getDeathOfYear(personDeathYear)+ 1;
                 TownPopulationSimulator.deathOfYear
-                        .put(person.getDeathYear(), deathYearCounter);
+                        .put(personDeathYear, deathYearCounter);
             }
         }
         // Add to citizens

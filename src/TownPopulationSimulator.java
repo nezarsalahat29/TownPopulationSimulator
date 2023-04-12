@@ -6,7 +6,7 @@ import java.io.IOException;
 //TODO:: Edit the code to run without Person and Town.
 public class TownPopulationSimulator {
     public static int currentYear=2000;
-    public static BufferedWriter bw ;
+    public static BufferedWriter bw;
 
     // Declare a static map to store the population count for each year
     public static  ConcurrentHashMap<Integer,Integer> populationOfYear=new ConcurrentHashMap<>();
