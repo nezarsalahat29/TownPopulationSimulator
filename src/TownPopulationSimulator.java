@@ -5,9 +5,8 @@ import java.util.*;
 
 import java.util.concurrent.*;
 
-import java.io.File;  // Import the File class
 import java.io.IOException;  // Import the IOException class to handle errors
-public class TownPopulationSimulation {
+public class TownPopulationSimulator {
     public static int currentYear=2000;
     public static BufferedWriter bw ;
 
