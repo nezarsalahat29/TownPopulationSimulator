@@ -13,4 +13,5 @@ public class Town{
     public void remove(int numberOfDeath){
         citizens-=numberOfDeath;
     }
+
 }

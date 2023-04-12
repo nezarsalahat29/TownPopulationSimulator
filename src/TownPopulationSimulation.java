@@ -32,9 +32,9 @@ public class TownPopulationSimulation {
     }
 
     public static void main(String[] args) throws IOException {
+        //create log file for testing
         FileWriter logFile= new FileWriter("log.txt");
         bw = new BufferedWriter(logFile);
-
 
         //initialize the population of town
         Town ourTown=new Town(0);
@@ -42,11 +42,11 @@ public class TownPopulationSimulation {
         // Create a thread of simulation and start it
         Thread simulator=new Thread(new Simulator(ourTown));
         simulator.start();
-        Scanner scanner = new Scanner(System.in);
 
         // Enter a loop that prompts the user to enter a year and prints the population count for that year
+        Scanner scanner = new Scanner(System.in);
         while(true) {
-            System.out.println("Enter what year u want OR enter 0 to exit: ");
+            System.out.print("Enter what year u want OR enter 0 to exit: ");
             int year = scanner.nextInt();
             if (year==0) break;
             System.out.println("Population at " + year + " is: " + getPopulation(year));

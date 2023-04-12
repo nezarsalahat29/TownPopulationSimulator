@@ -1,88 +1,2548 @@
 year: 2000
-added: 169312
+added: 287976
 deaths: 0
 
 year: 2001
-added: 515133
-deaths: 1968
+added: 334198
+deaths: 3232
 
 year: 2002
-added: 279201
-deaths: 7718
+added: 394774
+deaths: 6942
 
 year: 2003
-added: 89787
-deaths: 10667
+added: 340456
+deaths: 11347
 
 year: 2004
-added: 204214
-deaths: 11759
+added: 504468
+deaths: 15346
 
 year: 2005
-added: 738055
-deaths: 14161
+added: 368812
+deaths: 20966
 
 year: 2006
-added: 68683
-deaths: 22420
+added: 315132
+deaths: 24938
 
 year: 2007
-added: 414958
-deaths: 23226
+added: 540763
+deaths: 28509
 
 year: 2008
-added: 204916
-deaths: 27996
+added: 391156
+deaths: 34873
 
 year: 2009
-added: 929399
-deaths: 29995
+added: 778643
+deaths: 38811
 
 year: 2010
-added: 58166
-deaths: 40329
+added: 85350
+deaths: 47957
 
 year: 2011
-added: 212968
-deaths: 41537
+added: 155768
+deaths: 49155
 
 year: 2012
-added: 76130
-deaths: 43745
+added: 681374
+deaths: 50404
 
 year: 2013
-added: 428102
-deaths: 44248
+added: 736292
+deaths: 58363
 
 year: 2014
-added: 247253
-deaths: 49022
+added: 442999
+deaths: 66657
 
 year: 2015
-added: 586834
-deaths: 52210
+added: 98861
+deaths: 71164
 
 year: 2016
-added: 819806
-deaths: 58814
+added: 935159
+deaths: 72451
 
 year: 2017
-added: 595821
-deaths: 67876
+added: 122347
+deaths: 83410
 
 year: 2018
-added: 185589
-deaths: 75039
+added: 104454
+deaths: 84469
 
 year: 2019
-added: 681999
-deaths: 77094
+added: 833737
+deaths: 85612
 
 year: 2020
-added: 677907
-deaths: 84156
+added: 77927
+deaths: 95245
 
 year: 2021
-added: 386520
-deaths: 91849
+added: 391856
+deaths: 96245
+
+year: 2022
+added: 615055
+deaths: 100125
+
+year: 2023
+added: 274706
+deaths: 106920
+
+year: 2024
+added: 553377
+deaths: 110472
+
+year: 2025
+added: 762551
+deaths: 116857
+
+year: 2026
+added: 28121
+deaths: 125142
+
+year: 2027
+added: 178344
+deaths: 125439
+
+year: 2028
+added: 678627
+deaths: 127296
+
+year: 2029
+added: 164114
+deaths: 134200
+
+year: 2030
+added: 436852
+deaths: 137039
+
+year: 2031
+added: 58919
+deaths: 141352
+
+year: 2032
+added: 703064
+deaths: 142600
+
+year: 2033
+added: 717934
+deaths: 149400
+
+year: 2034
+added: 549834
+deaths: 158595
+
+year: 2035
+added: 323166
+deaths: 164563
+
+year: 2036
+added: 841200
+deaths: 168485
+
+year: 2037
+added: 153721
+deaths: 177516
+
+year: 2038
+added: 353469
+deaths: 179507
+
+year: 2039
+added: 222106
+deaths: 183638
+
+year: 2040
+added: 936534
+deaths: 185639
+
+year: 2041
+added: 244081
+deaths: 196393
+
+year: 2042
+added: 195493
+deaths: 199622
+
+year: 2043
+added: 716907
+deaths: 201212
+
+year: 2044
+added: 910772
+deaths: 209353
+
+year: 2045
+added: 285423
+deaths: 219557
+
+year: 2046
+added: 167386
+deaths: 222266
+
+year: 2047
+added: 2503
+deaths: 224803
+
+year: 2048
+added: 421025
+deaths: 224958
+
+year: 2049
+added: 644398
+deaths: 229072
+
+year: 2050
+added: 710267
+deaths: 236657
+
+year: 2051
+added: 322649
+deaths: 244689
+
+year: 2052
+added: 449877
+deaths: 248469
+
+year: 2053
+added: 715423
+deaths: 252851
+
+year: 2054
+added: 257131
+deaths: 261895
+
+year: 2055
+added: 193208
+deaths: 265114
+
+year: 2056
+added: 429338
+deaths: 267738
+
+year: 2057
+added: 898354
+deaths: 271169
+
+year: 2058
+added: 440921
+deaths: 280082
+
+year: 2059
+added: 585922
+deaths: 286098
+
+year: 2060
+added: 412880
+deaths: 293527
+
+year: 2061
+added: 173251
+deaths: 296783
+
+year: 2062
+added: 155160
+deaths: 299496
+
+year: 2063
+added: 925262
+deaths: 301360
+
+year: 2064
+added: 462316
+deaths: 311635
+
+year: 2065
+added: 720590
+deaths: 316345
+
+year: 2066
+added: 42253
+deaths: 325272
+
+year: 2067
+added: 178538
+deaths: 325752
+
+year: 2068
+added: 465350
+deaths: 327432
+
+year: 2069
+added: 779949
+deaths: 332574
+
+year: 2070
+added: 118244
+deaths: 340020
+
+year: 2071
+added: 800224
+deaths: 342537
+
+year: 2072
+added: 20829
+deaths: 351828
+
+year: 2073
+added: 728157
+deaths: 352757
+
+year: 2074
+added: 310688
+deaths: 361023
+
+year: 2075
+added: 85568
+deaths: 363320
+
+year: 2076
+added: 570383
+deaths: 364597
+
+year: 2077
+added: 691849
+deaths: 371382
+
+year: 2078
+added: 21021
+deaths: 377614
+
+year: 2079
+added: 335736
+deaths: 378501
+
+year: 2080
+added: 516881
+deaths: 383524
+
+year: 2081
+added: 673399
+deaths: 387196
+
+year: 2082
+added: 574055
+deaths: 395120
+
+year: 2083
+added: 526015
+deaths: 403236
+
+year: 2084
+added: 619620
+deaths: 409391
+
+year: 2085
+added: 43867
+deaths: 415440
+
+year: 2086
+added: 198014
+deaths: 415497
+
+year: 2087
+added: 355770
+deaths: 418647
+
+year: 2088
+added: 45009
+deaths: 422208
+
+year: 2089
+added: 970344
+deaths: 422031
+
+year: 2090
+added: 282272
+deaths: 431007
+
+year: 2091
+added: 334263
+deaths: 430574
+
+year: 2092
+added: 308655
+deaths: 428617
+
+year: 2093
+added: 12261
+deaths: 427934
+
+year: 2094
+added: 982393
+deaths: 422524
+
+year: 2095
+added: 977481
+deaths: 429970
+
+year: 2096
+added: 308211
+deaths: 437312
+
+year: 2097
+added: 206342
+deaths: 434959
+
+year: 2098
+added: 20793
+deaths: 432796
+
+year: 2099
+added: 748657
+deaths: 424198
+
+year: 2100
+added: 161602
+deaths: 432176
+
+year: 2101
+added: 390950
+deaths: 432525
+
+year: 2102
+added: 953651
+deaths: 428582
+
+year: 2103
+added: 367261
+deaths: 430385
+
+year: 2104
+added: 814726
+deaths: 429709
+
+year: 2105
+added: 875074
+deaths: 438403
+
+year: 2106
+added: 405651
+deaths: 437869
+
+year: 2107
+added: 491594
+deaths: 439871
+
+year: 2108
+added: 985181
+deaths: 444438
+
+year: 2109
+added: 78003
+deaths: 446619
+
+year: 2110
+added: 217609
+deaths: 446424
+
+year: 2111
+added: 330402
+deaths: 444485
+
+year: 2112
+added: 682772
+deaths: 442332
+
+year: 2113
+added: 650846
+deaths: 446566
+
+year: 2114
+added: 987712
+deaths: 447195
+
+year: 2115
+added: 489233
+deaths: 450048
+
+year: 2116
+added: 435909
+deaths: 455232
+
+year: 2117
+added: 794903
+deaths: 456169
+
+year: 2118
+added: 713454
+deaths: 459176
+
+year: 2119
+added: 69952
+deaths: 466205
+
+year: 2120
+added: 503659
+deaths: 461640
+
+year: 2121
+added: 787807
+deaths: 466529
+
+year: 2122
+added: 388904
+deaths: 467284
+
+year: 2123
+added: 618664
+deaths: 463397
+
+year: 2124
+added: 146833
+deaths: 464808
+
+year: 2125
+added: 232828
+deaths: 462279
+
+year: 2126
+added: 250513
+deaths: 455607
+
+year: 2127
+added: 107455
+deaths: 457344
+
+year: 2128
+added: 704598
+deaths: 454061
+
+year: 2129
+added: 983197
+deaths: 458926
+
+year: 2130
+added: 848438
+deaths: 459842
+
+year: 2131
+added: 415488
+deaths: 466251
+
+year: 2132
+added: 960986
+deaths: 468788
+
+year: 2133
+added: 240665
+deaths: 471805
+
+year: 2134
+added: 218594
+deaths: 464738
+
+year: 2135
+added: 264792
+deaths: 463504
+
+year: 2136
+added: 782253
+deaths: 464272
+
+year: 2137
+added: 198703
+deaths: 473792
+
+year: 2138
+added: 379068
+deaths: 469957
+
+year: 2139
+added: 905407
+deaths: 466763
+
+year: 2140
+added: 443248
+deaths: 470488
+
+year: 2141
+added: 326470
+deaths: 472822
+
+year: 2142
+added: 833659
+deaths: 469518
+
+year: 2143
+added: 352870
+deaths: 471206
+
+year: 2144
+added: 952471
+deaths: 472911
+
+year: 2145
+added: 231638
+deaths: 480783
+
+year: 2146
+added: 602989
+deaths: 478330
+
+year: 2147
+added: 116180
+deaths: 474615
+
+year: 2148
+added: 730437
+deaths: 471626
+
+year: 2149
+added: 188856
+deaths: 471499
+
+year: 2150
+added: 878508
+deaths: 471501
+
+year: 2151
+added: 254372
+deaths: 478150
+
+year: 2152
+added: 24547
+deaths: 479719
+
+year: 2153
+added: 112336
+deaths: 470011
+
+year: 2154
+added: 927503
+deaths: 465862
+
+year: 2155
+added: 925553
+deaths: 468674
+
+year: 2156
+added: 854718
+deaths: 477729
+
+year: 2157
+added: 773150
+deaths: 486352
+
+year: 2158
+added: 25856
+deaths: 488160
+
+year: 2159
+added: 752348
+deaths: 481914
+
+year: 2160
+added: 627222
+deaths: 488418
+
+year: 2161
+added: 423229
+deaths: 485832
+
+year: 2162
+added: 569853
+deaths: 492384
+
+year: 2163
+added: 626575
+deaths: 487453
+
+year: 2164
+added: 467394
+deaths: 491318
+
+year: 2165
+added: 984149
+deaths: 496171
+
+year: 2166
+added: 803062
+deaths: 501183
+
+year: 2167
+added: 789765
+deaths: 503264
+
+year: 2168
+added: 516637
+deaths: 510787
+
+year: 2169
+added: 374991
+deaths: 512008
+
+year: 2170
+added: 723324
+deaths: 510295
+
+year: 2171
+added: 724919
+deaths: 511586
+
+year: 2172
+added: 857634
+deaths: 513868
+
+year: 2173
+added: 528533
+deaths: 517771
+
+year: 2174
+added: 182756
+deaths: 516285
+
+year: 2175
+added: 115866
+deaths: 516635
+
+year: 2176
+added: 982487
+deaths: 516786
+
+year: 2177
+added: 201714
+deaths: 524219
+
+year: 2178
+added: 707414
+deaths: 525735
+
+year: 2179
+added: 700334
+deaths: 521762
+
+year: 2180
+added: 586633
+deaths: 527826
+
+year: 2181
+added: 981953
+deaths: 529537
+
+year: 2182
+added: 460701
+deaths: 538444
+
+year: 2183
+added: 227767
+deaths: 542380
+
+year: 2184
+added: 790010
+deaths: 535433
+
+year: 2185
+added: 259138
+deaths: 532114
+
+year: 2186
+added: 972804
+deaths: 532339
+
+year: 2187
+added: 292180
+deaths: 540243
+
+year: 2188
+added: 760881
+deaths: 544469
+
+year: 2189
+added: 850514
+deaths: 543264
+
+year: 2190
+added: 863067
+deaths: 550823
+
+year: 2191
+added: 114232
+deaths: 557105
+
+year: 2192
+added: 718632
+deaths: 546789
+
+year: 2193
+added: 759853
+deaths: 550289
+
+year: 2194
+added: 882080
+deaths: 549585
+
+year: 2195
+added: 60201
+deaths: 549981
+
+year: 2196
+added: 552689
+deaths: 546618
+
+year: 2197
+added: 57550
+deaths: 548107
+
+year: 2198
+added: 875743
+deaths: 536296
+
+year: 2199
+added: 948071
+deaths: 544557
+
+year: 2200
+added: 634367
+deaths: 554798
+
+year: 2201
+added: 9190
+deaths: 558488
+
+year: 2202
+added: 696995
+deaths: 549331
+
+year: 2203
+added: 606599
+deaths: 551835
+
+year: 2204
+added: 83811
+deaths: 545974
+
+year: 2205
+added: 835801
+deaths: 541587
+
+year: 2206
+added: 960492
+deaths: 546539
+
+year: 2207
+added: 973611
+deaths: 548806
+
+year: 2208
+added: 986958
+deaths: 550598
+
+year: 2209
+added: 474761
+deaths: 561391
+
+year: 2210
+added: 814350
+deaths: 562968
+
+year: 2211
+added: 642767
+deaths: 560364
+
+year: 2212
+added: 643461
+deaths: 565541
+
+year: 2213
+added: 700599
+deaths: 565192
+
+year: 2214
+added: 668282
+deaths: 570796
+
+year: 2215
+added: 347972
+deaths: 575143
+
+year: 2216
+added: 113733
+deaths: 576898
+
+year: 2217
+added: 927983
+deaths: 576229
+
+year: 2218
+added: 509408
+deaths: 580075
+
+year: 2219
+added: 131509
+deaths: 573872
+
+year: 2220
+added: 925095
+deaths: 565938
+
+year: 2221
+added: 535310
+deaths: 571424
+
+year: 2222
+added: 273402
+deaths: 567305
+
+year: 2223
+added: 229874
+deaths: 567283
+
+year: 2224
+added: 895264
+deaths: 568066
+
+year: 2225
+added: 979070
+deaths: 574197
+
+year: 2226
+added: 337912
+deaths: 574661
+
+year: 2227
+added: 157399
+deaths: 577765
+
+year: 2228
+added: 645269
+deaths: 576252
+
+year: 2229
+added: 86121
+deaths: 573073
+
+year: 2230
+added: 645831
+deaths: 568275
+
+year: 2231
+added: 338350
+deaths: 573048
+
+year: 2232
+added: 508084
+deaths: 568222
+
+year: 2233
+added: 958406
+deaths: 568655
+
+year: 2234
+added: 605848
+deaths: 569526
+
+year: 2235
+added: 336090
+deaths: 572180
+
+year: 2236
+added: 363196
+deaths: 569592
+
+year: 2237
+added: 411293
+deaths: 572657
+
+year: 2238
+added: 766594
+deaths: 569978
+
+year: 2239
+added: 251751
+deaths: 576067
+
+year: 2240
+added: 667595
+deaths: 566988
+
+year: 2241
+added: 808230
+deaths: 574205
+
+year: 2242
+added: 198842
+deaths: 581464
+
+year: 2243
+added: 366002
+deaths: 580468
+
+year: 2244
+added: 324855
+deaths: 577080
+
+year: 2245
+added: 456589
+deaths: 569785
+
+year: 2246
+added: 577126
+deaths: 566354
+
+year: 2247
+added: 888725
+deaths: 562784
+
+year: 2248
+added: 761399
+deaths: 573927
+
+year: 2249
+added: 146135
+deaths: 571592
+
+year: 2250
+added: 60466
+deaths: 567318
+
+year: 2251
+added: 384935
+deaths: 562442
+
+year: 2252
+added: 769810
+deaths: 562164
+
+year: 2253
+added: 423931
+deaths: 562208
+
+year: 2254
+added: 863506
+deaths: 561942
+
+year: 2255
+added: 971327
+deaths: 561672
+
+year: 2256
+added: 930744
+deaths: 563058
+
+year: 2257
+added: 709388
+deaths: 565336
+
+year: 2258
+added: 186136
+deaths: 566529
+
+year: 2259
+added: 221528
+deaths: 564833
+
+year: 2260
+added: 206818
+deaths: 558745
+
+year: 2261
+added: 871155
+deaths: 551888
+
+year: 2262
+added: 69089
+deaths: 553975
+
+year: 2263
+added: 510657
+deaths: 548348
+
+year: 2264
+added: 391686
+deaths: 551603
+
+year: 2265
+added: 982254
+deaths: 554649
+
+year: 2266
+added: 222488
+deaths: 556412
+
+year: 2267
+added: 294149
+deaths: 554689
+
+year: 2268
+added: 936928
+deaths: 550033
+
+year: 2269
+added: 866951
+deaths: 552154
+
+year: 2270
+added: 240565
+deaths: 555914
+
+year: 2271
+added: 537797
+deaths: 549235
+
+year: 2272
+added: 272007
+deaths: 548911
+
+year: 2273
+added: 897327
+deaths: 550342
+
+year: 2274
+added: 975752
+deaths: 550595
+
+year: 2275
+added: 808450
+deaths: 558718
+
+year: 2276
+added: 862450
+deaths: 556837
+
+year: 2277
+added: 711167
+deaths: 562220
+
+year: 2278
+added: 386080
+deaths: 561606
+
+year: 2279
+added: 686735
+deaths: 557111
+
+year: 2280
+added: 337293
+deaths: 554938
+
+year: 2281
+added: 243531
+deaths: 557752
+
+year: 2282
+added: 378255
+deaths: 553101
+
+year: 2283
+added: 685896
+deaths: 546966
+
+year: 2284
+added: 303265
+deaths: 545734
+
+year: 2285
+added: 466841
+deaths: 549550
+
+year: 2286
+added: 375366
+deaths: 548409
+
+year: 2287
+added: 513517
+deaths: 551174
+
+year: 2288
+added: 334994
+deaths: 548476
+
+year: 2289
+added: 547391
+deaths: 539507
+
+year: 2290
+added: 9472
+deaths: 539416
+
+year: 2291
+added: 431362
+deaths: 540431
+
+year: 2292
+added: 314646
+deaths: 537222
+
+year: 2293
+added: 185259
+deaths: 533486
+
+year: 2294
+added: 229057
+deaths: 534104
+
+year: 2295
+added: 649186
+deaths: 528223
+
+year: 2296
+added: 652988
+deaths: 523619
+
+year: 2297
+added: 328112
+deaths: 519310
+
+year: 2298
+added: 443944
+deaths: 512371
+
+year: 2299
+added: 782631
+deaths: 513606
+
+year: 2300
+added: 344764
+deaths: 511810
+
+year: 2301
+added: 883682
+deaths: 508814
+
+year: 2302
+added: 711440
+deaths: 511553
+
+year: 2303
+added: 515401
+deaths: 511768
+
+year: 2304
+added: 257636
+deaths: 510385
+
+year: 2305
+added: 266481
+deaths: 509545
+
+year: 2306
+added: 750734
+deaths: 510754
+
+year: 2307
+added: 376365
+deaths: 507856
+
+year: 2308
+added: 414691
+deaths: 508867
+
+year: 2309
+added: 241674
+deaths: 511501
+
+year: 2310
+added: 38336
+deaths: 503923
+
+year: 2311
+added: 647319
+deaths: 497695
+
+year: 2312
+added: 170291
+deaths: 501165
+
+year: 2313
+added: 132015
+deaths: 499758
+
+year: 2314
+added: 671783
+deaths: 492246
+
+year: 2315
+added: 583002
+deaths: 489231
+
+year: 2316
+added: 576243
+deaths: 491543
+
+year: 2317
+added: 963992
+deaths: 495933
+
+year: 2318
+added: 462653
+deaths: 499025
+
+year: 2319
+added: 106422
+deaths: 504261
+
+year: 2320
+added: 397266
+deaths: 497661
+
+year: 2321
+added: 732624
+deaths: 498928
+
+year: 2322
+added: 556585
+deaths: 499667
+
+year: 2323
+added: 369083
+deaths: 497287
+
+year: 2324
+added: 396448
+deaths: 492874
+
+year: 2325
+added: 16939
+deaths: 494774
+
+year: 2326
+added: 485228
+deaths: 490610
+
+year: 2327
+added: 726062
+deaths: 491021
+
+year: 2328
+added: 376364
+deaths: 491065
+
+year: 2329
+added: 344077
+deaths: 492595
+
+year: 2330
+added: 301039
+deaths: 488595
+
+year: 2331
+added: 275819
+deaths: 482539
+
+year: 2332
+added: 485823
+deaths: 483954
+
+year: 2333
+added: 1317
+deaths: 485539
+
+year: 2334
+added: 576044
+deaths: 482833
+
+year: 2335
+added: 205591
+deaths: 483593
+
+year: 2336
+added: 674005
+deaths: 479131
+
+year: 2337
+added: 808951
+deaths: 476592
+
+year: 2338
+added: 345465
+deaths: 477885
+
+year: 2339
+added: 286568
+deaths: 478725
+
+year: 2340
+added: 60798
+deaths: 481266
+
+year: 2341
+added: 343306
+deaths: 478490
+
+year: 2342
+added: 238134
+deaths: 473604
+
+year: 2343
+added: 595821
+deaths: 470701
+
+year: 2344
+added: 474348
+deaths: 467313
+
+year: 2345
+added: 710486
+deaths: 462634
+
+year: 2346
+added: 396126
+deaths: 459035
+
+year: 2347
+added: 603121
+deaths: 456865
+
+year: 2348
+added: 88962
+deaths: 461114
+
+year: 2349
+added: 574228
+deaths: 460158
+
+year: 2350
+added: 795963
+deaths: 465223
+
+year: 2351
+added: 96584
+deaths: 463517
+
+year: 2352
+added: 944028
+deaths: 463003
+
+year: 2353
+added: 654832
+deaths: 468695
+
+year: 2354
+added: 969208
+deaths: 470726
+
+year: 2355
+added: 338316
+deaths: 470032
+
+year: 2356
+added: 684123
+deaths: 473075
+
+year: 2357
+added: 847401
+deaths: 476346
+
+year: 2358
+added: 420835
+deaths: 475909
+
+year: 2359
+added: 645621
+deaths: 470430
+
+year: 2360
+added: 899811
+deaths: 474838
+
+year: 2361
+added: 350918
+deaths: 478857
+
+year: 2362
+added: 69007
+deaths: 481122
+
+year: 2363
+added: 63929
+deaths: 470532
+
+year: 2364
+added: 80508
+deaths: 459773
+
+year: 2365
+added: 45132
+deaths: 453069
+
+year: 2366
+added: 71853
+deaths: 443059
+
+year: 2367
+added: 226165
+deaths: 436418
+
+year: 2368
+added: 781994
+deaths: 434655
+
+year: 2369
+added: 910591
+deaths: 434631
+
+year: 2370
+added: 129959
+deaths: 441370
+
+year: 2371
+added: 780335
+deaths: 441422
+
+year: 2372
+added: 274463
+deaths: 445303
+
+year: 2373
+added: 16102
+deaths: 440450
+
+year: 2374
+added: 523893
+deaths: 437472
+
+year: 2375
+added: 587679
+deaths: 438765
+
+year: 2376
+added: 291817
+deaths: 441629
+
+year: 2377
+added: 653164
+deaths: 437928
+
+year: 2378
+added: 99388
+deaths: 440901
+
+year: 2379
+added: 621848
+deaths: 435958
+
+year: 2380
+added: 266219
+deaths: 444020
+
+year: 2381
+added: 302821
+deaths: 442326
+
+year: 2382
+added: 793542
+deaths: 441391
+
+year: 2383
+added: 819658
+deaths: 448517
+
+year: 2384
+added: 202583
+deaths: 453966
+
+year: 2385
+added: 146758
+deaths: 449522
+
+year: 2386
+added: 761396
+deaths: 443899
+
+year: 2387
+added: 718141
+deaths: 449998
+
+year: 2388
+added: 517436
+deaths: 451732
+
+year: 2389
+added: 759599
+deaths: 449061
+
+year: 2390
+added: 607270
+deaths: 452311
+
+year: 2391
+added: 857802
+deaths: 450349
+
+year: 2392
+added: 985252
+deaths: 453117
+
+year: 2393
+added: 108254
+deaths: 457467
+
+year: 2394
+added: 209397
+deaths: 456017
+
+year: 2395
+added: 352688
+deaths: 456185
+
+year: 2396
+added: 284592
+deaths: 450244
+
+year: 2397
+added: 84347
+deaths: 450143
+
+year: 2398
+added: 408570
+deaths: 446859
+
+year: 2399
+added: 537658
+deaths: 448399
+
+year: 2400
+added: 763201
+deaths: 454003
+
+year: 2401
+added: 458764
+deaths: 454291
+
+year: 2402
+added: 650844
+deaths: 457472
+
+year: 2403
+added: 126862
+deaths: 463422
+
+year: 2404
+added: 750276
+deaths: 458336
+
+year: 2405
+added: 288651
+deaths: 459930
+
+year: 2406
+added: 846770
+deaths: 456355
+
+year: 2407
+added: 20015
+deaths: 455589
+
+year: 2408
+added: 676565
+deaths: 449233
+
+year: 2409
+added: 520858
+deaths: 455509
+
+year: 2410
+added: 987169
+deaths: 456953
+
+year: 2411
+added: 833618
+deaths: 459469
+
+year: 2412
+added: 610381
+deaths: 464552
+
+year: 2413
+added: 209675
+deaths: 466663
+
+year: 2414
+added: 812222
+deaths: 463991
+
+year: 2415
+added: 628554
+deaths: 474534
+
+year: 2416
+added: 411185
+deaths: 474961
+
+year: 2417
+added: 466767
+deaths: 470663
+
+year: 2418
+added: 590407
+deaths: 472001
+
+year: 2419
+added: 11154
+deaths: 474575
+
+year: 2420
+added: 900563
+deaths: 472392
+
+year: 2421
+added: 843974
+deaths: 479283
+
+year: 2422
+added: 262456
+deaths: 482439
+
+year: 2423
+added: 4135
+deaths: 486199
+
+year: 2424
+added: 625633
+deaths: 480694
+
+year: 2425
+added: 11731
+deaths: 483812
+
+year: 2426
+added: 979772
+deaths: 475640
+
+year: 2427
+added: 636466
+deaths: 478585
+
+year: 2428
+added: 384441
+deaths: 482405
+
+year: 2429
+added: 478209
+deaths: 483675
+
+year: 2430
+added: 12415
+deaths: 487986
+
+year: 2431
+added: 691378
+deaths: 484514
+
+year: 2432
+added: 87658
+deaths: 487872
+
+year: 2433
+added: 155409
+deaths: 483362
+
+year: 2434
+added: 485826
+deaths: 479657
+
+year: 2435
+added: 863020
+deaths: 476832
+
+year: 2436
+added: 400563
+deaths: 482368
+
+year: 2437
+added: 843135
+deaths: 480530
+
+year: 2438
+added: 392963
+deaths: 488770
+
+year: 2439
+added: 17325
+deaths: 487144
+
+year: 2440
+added: 709581
+deaths: 478087
+
+year: 2441
+added: 375450
+deaths: 484161
+
+year: 2442
+added: 596968
+deaths: 478047
+
+year: 2443
+added: 969785
+deaths: 478109
+
+year: 2444
+added: 856381
+deaths: 479069
+
+year: 2445
+added: 704448
+deaths: 484552
+
+year: 2446
+added: 688871
+deaths: 484627
+
+year: 2447
+added: 194140
+deaths: 483134
+
+year: 2448
+added: 951159
+deaths: 480581
+
+year: 2449
+added: 318671
+deaths: 483678
+
+year: 2450
+added: 293980
+deaths: 478180
+
+year: 2451
+added: 959211
+deaths: 475724
+
+year: 2452
+added: 126711
+deaths: 485799
+
+year: 2453
+added: 256461
+deaths: 486537
+
+year: 2454
+added: 474243
+deaths: 488876
+
+year: 2455
+added: 668628
+deaths: 493452
+
+year: 2456
+added: 456811
+deaths: 500278
+
+year: 2457
+added: 567382
+deaths: 503460
+
+year: 2458
+added: 782864
+deaths: 499711
+
+year: 2459
+added: 740706
+deaths: 499182
+
+year: 2460
+added: 809160
+deaths: 504699
+
+year: 2461
+added: 498591
+deaths: 505323
+
+year: 2462
+added: 369310
+deaths: 507895
+
+year: 2463
+added: 149600
+deaths: 513842
+
+year: 2464
+added: 110150
+deaths: 506950
+
+year: 2465
+added: 921197
+deaths: 502171
+
+year: 2466
+added: 734847
+deaths: 509850
+
+year: 2467
+added: 749212
+deaths: 510712
+
+year: 2468
+added: 903715
+deaths: 517716
+
+year: 2469
+added: 828018
+deaths: 520691
+
+year: 2470
+added: 490913
+deaths: 527944
+
+year: 2471
+added: 878312
+deaths: 529575
+
+year: 2472
+added: 283324
+deaths: 531800
+
+year: 2473
+added: 749129
+deaths: 526054
+
+year: 2474
+added: 963023
+deaths: 531870
+
+year: 2475
+added: 303271
+deaths: 538731
+
+year: 2476
+added: 547161
+deaths: 534582
+
+year: 2477
+added: 914153
+deaths: 531477
+
+year: 2478
+added: 248880
+deaths: 536991
+
+year: 2479
+added: 902319
+deaths: 531972
+
+year: 2480
+added: 702755
+deaths: 534595
+
+year: 2481
+added: 602240
+deaths: 533706
+
+year: 2482
+added: 603475
+deaths: 528802
+
+year: 2483
+added: 558839
+deaths: 535097
+
+year: 2484
+added: 425328
+deaths: 539485
+
+year: 2485
+added: 216443
+deaths: 539709
+
+year: 2486
+added: 40338
+deaths: 540474
+
+year: 2487
+added: 301118
+deaths: 537949
+
+year: 2488
+added: 940132
+deaths: 536408
+
+year: 2489
+added: 469491
+deaths: 541181
+
+year: 2490
+added: 623872
+deaths: 538013
+
+year: 2491
+added: 745211
+deaths: 540452
+
+year: 2492
+added: 298771
+deaths: 541362
+
+year: 2493
+added: 16098
+deaths: 542090
+
+year: 2494
+added: 512417
+deaths: 534482
+
+year: 2495
+added: 406956
+deaths: 536714
+
+year: 2496
+added: 641641
+deaths: 532356
+
+year: 2497
+added: 452851
+deaths: 539012
+
+year: 2498
+added: 658721
+deaths: 535940
+
+year: 2499
+added: 882892
+deaths: 538677
+
+year: 2500
+added: 986525
+deaths: 535965
+
+year: 2501
+added: 674991
+deaths: 538586
+
+year: 2502
+added: 829783
+deaths: 539646
+
+year: 2503
+added: 249324
+deaths: 546221
+
+year: 2504
+added: 861670
+deaths: 539935
+
+year: 2505
+added: 921198
+deaths: 542320
+
+year: 2506
+added: 225892
+deaths: 548818
+
+year: 2507
+added: 649709
+deaths: 546367
+
+year: 2508
+added: 740655
+deaths: 545640
+
+year: 2509
+added: 761194
+deaths: 553246
+
+year: 2510
+added: 255339
+deaths: 552989
+
+year: 2511
+added: 360101
+deaths: 545948
+
+year: 2512
+added: 323357
+deaths: 548661
+
+year: 2513
+added: 325424
+deaths: 550697
+
+year: 2514
+added: 477578
+deaths: 548324
+
+year: 2515
+added: 780366
+deaths: 553859
+
+year: 2516
+added: 730068
+deaths: 550478
+
+year: 2517
+added: 746906
+deaths: 550604
+
+year: 2518
+added: 46107
+deaths: 555060
+
+year: 2519
+added: 323337
+deaths: 550897
+
+year: 2520
+added: 673994
+deaths: 554778
+
+year: 2521
+added: 285094
+deaths: 553415
+
+year: 2522
+added: 40659
+deaths: 557118
+
+year: 2523
+added: 157228
+deaths: 555983
+
+year: 2524
+added: 44821
+deaths: 551613
+
+year: 2525
+added: 952469
+deaths: 542089
+
+year: 2526
+added: 316349
+deaths: 548369
+
+year: 2527
+added: 879911
+deaths: 542153
+
+year: 2528
+added: 588753
+deaths: 548654
+
+year: 2529
+added: 108237
+deaths: 555243
+
+year: 2530
+added: 881321
+deaths: 546705
+
+year: 2531
+added: 243656
+deaths: 554119
+
+year: 2532
+added: 151647
+deaths: 550434
+
+year: 2533
+added: 777105
+deaths: 540758
+
+year: 2534
+added: 869689
+deaths: 539517
+
+year: 2535
+added: 920786
+deaths: 540822
+
+year: 2536
+added: 841712
+deaths: 543324
+
+year: 2537
+added: 868876
+deaths: 550706
+
+year: 2538
+added: 744900
+deaths: 550143
+
+year: 2539
+added: 507741
+deaths: 556065
+
+year: 2540
+added: 34631
+deaths: 557462
+
+year: 2541
+added: 288874
+deaths: 546454
+
+year: 2542
+added: 128296
+deaths: 547860
+
+year: 2543
+added: 358429
+deaths: 547746
+
+year: 2544
+added: 784656
+deaths: 545462
+
+year: 2545
+added: 679623
+deaths: 547249
+
+year: 2546
+added: 601229
+deaths: 550806
+
+year: 2547
+added: 406544
+deaths: 551109
+
+year: 2548
+added: 9923
+deaths: 546010
+
+year: 2549
+added: 695716
+deaths: 536749
+
+year: 2550
+added: 982779
+deaths: 536818
+
+year: 2551
+added: 179059
+deaths: 542399
+
+year: 2552
+added: 421032
+deaths: 541498
+
+year: 2553
+added: 57769
+deaths: 543088
+
+year: 2554
+added: 647912
+deaths: 542178
+
+year: 2555
+added: 898088
+deaths: 540098
+
+year: 2556
+added: 444887
+deaths: 540470
+
+year: 2557
+added: 898182
+deaths: 537910
+
+year: 2558
+added: 74755
+deaths: 538232
+
+year: 2559
+added: 325066
+deaths: 529394
+
+year: 2560
+added: 458276
+deaths: 527992
+
+year: 2561
+added: 494545
+deaths: 521205
+
+year: 2562
+added: 282133
+deaths: 525139
+
+year: 2563
+added: 191961
+deaths: 519479
+
+year: 2564
+added: 866940
+deaths: 511543
+
+year: 2565
+added: 3511
+deaths: 517371
+
+year: 2566
+added: 475963
+deaths: 511181
+
+year: 2567
+added: 748778
+deaths: 506368
+
+year: 2568
+added: 112241
+deaths: 512048
+
+year: 2569
+added: 973040
+deaths: 503650
+
+year: 2570
+added: 677770
+deaths: 505782
+
+year: 2571
+added: 592016
+deaths: 506554
+
+year: 2572
+added: 264250
+deaths: 506302
+
+year: 2573
+added: 754340
+deaths: 504423
+
+year: 2574
+added: 523011
+deaths: 507287
+
+year: 2575
+added: 516795
+deaths: 510722
+
+year: 2576
+added: 121709
+deaths: 515410
+
+year: 2577
+added: 27738
+deaths: 514767
+
+year: 2578
+added: 429696
+deaths: 504033
+
+year: 2579
+added: 847522
+deaths: 502845
+
+year: 2580
+added: 577781
+deaths: 505467
+
+year: 2581
+added: 666206
+deaths: 504780
+
+year: 2582
+added: 580441
+deaths: 505935
+
+year: 2583
+added: 810084
+deaths: 513772
+
+year: 2584
+added: 641445
+deaths: 518253
+
+year: 2585
+added: 747138
+deaths: 520475
+
+year: 2586
+added: 527709
+deaths: 522061
+
+year: 2587
+added: 580109
+deaths: 522134
+
+year: 2588
+added: 978112
+deaths: 520416
+
+year: 2589
+added: 18237
+deaths: 522414
+
+year: 2590
+added: 66432
+deaths: 511645
+
+year: 2591
+added: 655039
+deaths: 503959
+
+year: 2592
+added: 470210
+deaths: 502596
+
+year: 2593
+added: 94236
+deaths: 505050
+
+year: 2594
+added: 460110
+deaths: 497024
+
+year: 2595
+added: 40496
+deaths: 491159
+
+year: 2596
+added: 357149
+deaths: 490116
+
+year: 2597
+added: 883309
+deaths: 486822
+
+year: 2598
+added: 234617
+deaths: 488358
+
+year: 2599
+added: 87428
+deaths: 483325
+
+year: 2600
+added: 933502
+deaths: 480346
+
+year: 2601
+added: 128298
+deaths: 485355
+
+year: 2602
+added: 609190
+deaths: 485440
+
+year: 2603
+added: 430605
+deaths: 487569
+
+year: 2604
+added: 313911
+deaths: 488106
+
+year: 2605
+added: 529309
+deaths: 482174
+
+year: 2606
+added: 164336
+deaths: 480536
+
+year: 2607
+added: 21589
+deaths: 473306
+
+year: 2608
+added: 69489
+deaths: 472442
+
+year: 2609
+added: 788875
+deaths: 468399
+
+year: 2610
+added: 161525
+deaths: 472024
+
+year: 2611
+added: 60173
+deaths: 470150
+
+year: 2612
+added: 104199
+deaths: 469738
+
+year: 2613
+added: 368999
+deaths: 469208
+
+year: 2614
+added: 313741
+deaths: 473404
+
+year: 2615
+added: 733758
+deaths: 466106
+
+year: 2616
+added: 453563
+deaths: 469441
+
+year: 2617
+added: 366722
+deaths: 466118
+
+year: 2618
+added: 959228
+deaths: 464005
+
+year: 2619
+added: 599392
+deaths: 472268
+
+year: 2620
+added: 254621
+deaths: 469195
+
+year: 2621
+added: 260245
+deaths: 468736
+
+year: 2622
+added: 841449
+deaths: 471328
+
+year: 2623
+added: 630200
+deaths: 472224
+
+year: 2624
+added: 498196
+deaths: 468823
+
+year: 2625
+added: 953900
+deaths: 464414
+
+year: 2626
+added: 107128
+deaths: 466342
+
+year: 2627
+added: 757596
+deaths: 456056
+
+year: 2628
+added: 622243
+deaths: 457605
+
+year: 2629
+added: 610210
+deaths: 457787
+
+year: 2630
+added: 335929
+deaths: 464795
+
+year: 2631
+added: 390697
+deaths: 466128
+
+year: 2632
+added: 937968
+deaths: 467780
+
+year: 2633
+added: 743029
+deaths: 473462
+
+year: 2634
+added: 25868
+deaths: 473699
+
+year: 2635
+added: 348175
+deaths: 466389
+
+year: 2636
+added: 973490
+deaths: 464264
 
