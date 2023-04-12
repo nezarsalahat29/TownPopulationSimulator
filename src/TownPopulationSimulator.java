@@ -3,6 +3,7 @@ import java.io.FileWriter;
 import java.util.*;
 import java.util.concurrent.*;
 import java.io.IOException;
+//TODO:: Edit the code to run without Person and Town.
 public class TownPopulationSimulator {
     public static int currentYear=2000;
     public static BufferedWriter bw ;
