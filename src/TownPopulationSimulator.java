@@ -1,11 +1,8 @@
-
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.util.*;
-
 import java.util.concurrent.*;
-
-import java.io.IOException;  // Import the IOException class to handle errors
+import java.io.IOException;
 public class TownPopulationSimulator {
     public static int currentYear=2000;
     public static BufferedWriter bw ;
@@ -22,7 +19,6 @@ public class TownPopulationSimulator {
             return 0;
         return populationOfYear.get(year);
     }
-
     // Define a method to get the death count for a given year
     public static int getDeathOfYear(int year){
         if (deathOfYear.get(year)==null)
@@ -31,11 +27,11 @@ public class TownPopulationSimulator {
     }
 
     public static void main(String[] args) throws IOException {
-        //create log file for testing
+        // Create log file for testing
         FileWriter logFile= new FileWriter("log.txt");
         bw = new BufferedWriter(logFile);
 
-        //initialize the population of town
+        // Initialize the population of town
         Town ourTown=new Town(0);
 
         // Create a thread of simulation and start it

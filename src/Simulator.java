@@ -30,7 +30,7 @@ public class Simulator implements Runnable {
                 .put(TownPopulationSimulator.currentYear, population);
 
         // Go to next year
-        TownPopulationSimulator.currentYear= TownPopulationSimulator.currentYear+1;
+        TownPopulationSimulator.currentYear++;
 
         // Every year represent as a sec
         Thread.sleep(1000);
@@ -40,13 +40,13 @@ public class Simulator implements Runnable {
     private void birthManager() throws IOException {
         // Generate a random number of births
         Random random=new Random();
-        int randomNumberOfBirths=random.nextInt(1000000);
+        int randomNumberOfBirths=random.nextInt(10);
         int counterOfAlive=0;
 
         // Loops through the random number of births and adds new Person objects to the town
         while (randomNumberOfBirths--!=0) {
             Random age = new Random();
-            Person person = new Person(TownPopulationSimulator.currentYear, age.nextInt(90));
+            Person person = new Person(TownPopulationSimulator.currentYear, age.nextInt(3));
             // If person died in the same year of birth don't add it or count it
             if (person.getAge() != 0) {
                 counterOfAlive++;
@@ -58,7 +58,6 @@ public class Simulator implements Runnable {
         // Write logs in file
         TownPopulationSimulator.bw.write("year: "+ TownPopulationSimulator.currentYear+"\n");
         TownPopulationSimulator.bw.write("added: "+counterOfAlive+"\n");
-
         ourTown.add(counterOfAlive);//add to citizens
     }
 
