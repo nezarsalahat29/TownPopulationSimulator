@@ -44,11 +44,10 @@ public class Simulator implements Runnable {
         // Loops through the random number of births and adds new Person objects to the town
         while (randomNumberOfBirths--!=0) {
             int age = random.nextInt(90);
-            int personDeathYear=TownPopulationSimulator.currentYear+age;
-            //Person person = new Person(TownPopulationSimulator.currentYear, age);
             // If person died in the same year of birth don't add it or count it
             if (age != 0) {
                 counterOfAlive++;
+                int personDeathYear=TownPopulationSimulator.currentYear + age;
                 int deathYearCounter = TownPopulationSimulator.getDeathOfYear(personDeathYear)+ 1;
                 TownPopulationSimulator.deathOfYear
                         .put(personDeathYear, deathYearCounter);
@@ -66,13 +65,13 @@ public class Simulator implements Runnable {
     // Method that simulates deaths in the town's population growth
     private void deathManager() throws IOException {
 
-        int deathsCount = TownPopulationSimulator.getDeathOfYear(TownPopulationSimulator.currentYear);
+        int deathsCounter = TownPopulationSimulator.getDeathOfYear(TownPopulationSimulator.currentYear);
 
         // If there were deaths, remove the corresponding people from the town
-        if (deathsCount != 0)
-            ourTown.remove(deathsCount);
+        if (deathsCounter != 0)
+            ourTown.remove(deathsCounter);
 
         // Write logs in file
-        TownPopulationSimulator.bw.write("deaths: "+deathsCount+"\n\n");
+        TownPopulationSimulator.bw.write("deaths: "+deathsCounter+"\n\n");
     }
 }
