@@ -28,8 +28,6 @@ public class Simulator implements Runnable {
         int population = ourTown.getCitizens();
         TownPopulationSimulation.populationOfYear
                 .put(TownPopulationSimulation.currentYear, population);
-//            System.out.println("citizens " + TownPopulationSimulation.currentYear + ": "
-//                   + TownPopulationSimulation.populationOfYear.get(TownPopulationSimulation.currentYear));
         TownPopulationSimulation.currentYear= TownPopulationSimulation.currentYear+1;
         Thread.sleep(1000);
     }
@@ -50,13 +48,11 @@ public class Simulator implements Runnable {
                 TownPopulationSimulation.deathOfYear
                         .put(person.getDeathYear(), deathYearCounter);
             }
-            //System.out.println(person);
         }
         //write logs in file
         TownPopulationSimulation.bw.write("year: "+TownPopulationSimulation.currentYear+"\n");
         TownPopulationSimulation.bw.write("added: "+counterOfAlive+"\n");
 
-        //System.out.println("added: "+counterOfAlive);
         ourTown.add(counterOfAlive);//add to citizens
     }
 
@@ -68,9 +64,6 @@ public class Simulator implements Runnable {
             ourTown.remove(deathsCount);
         //write logs in file
         TownPopulationSimulation.bw.write("deaths: "+deathsCount+"\n\n");
-
-        //System.out.println("deaths: "+deathsCount);
-
     }
 
 }
