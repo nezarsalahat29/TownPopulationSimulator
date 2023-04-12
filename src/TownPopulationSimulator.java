@@ -22,8 +22,8 @@ public class TownPopulationSimulator {
             return 0;
         return populationOfYear.get(year);
     }
-    // Define a method to get the death count for a given year
 
+    // Define a method to get the death count for a given year
     public static int getDeathOfYear(int year){
         if (deathOfYear.get(year)==null)
             return 0;
