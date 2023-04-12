@@ -12,14 +12,12 @@ public class Simulator implements Runnable {
         while (true) {
             try {
                 simulate();
-            } catch (InterruptedException e) {
-                Thread.currentThread().stop(); // Force interrupted thread to stop
-            } catch (IOException e) {
+            } catch (IOException | InterruptedException e) {
                 throw new RuntimeException(e);
             }
         }
     }
-    private void simulate() throws InterruptedException, IOException {
+    private void simulate() throws IOException, InterruptedException {
 
         birthManager();
         deathManager();
@@ -40,25 +38,28 @@ public class Simulator implements Runnable {
     private void birthManager() throws IOException {
         // Generate a random number of births
         Random random=new Random();
-        int randomNumberOfBirths=random.nextInt(10);
+        int randomNumberOfBirths=random.nextInt(1000000);
         int counterOfAlive=0;
 
         // Loops through the random number of births and adds new Person objects to the town
         while (randomNumberOfBirths--!=0) {
-            Random age = new Random();
-            Person person = new Person(TownPopulationSimulator.currentYear, age.nextInt(3));
+            int age = random.nextInt(90);
+            Person person = new Person(TownPopulationSimulator.currentYear, age);
             // If person died in the same year of birth don't add it or count it
-            if (person.getAge() != 0) {
+            if (age != 0) {
                 counterOfAlive++;
                 int deathYearCounter = TownPopulationSimulator.getDeathOfYear(person.getDeathYear())+ 1;
                 TownPopulationSimulator.deathOfYear
                         .put(person.getDeathYear(), deathYearCounter);
             }
         }
+        // Add to citizens
+        ourTown.add(counterOfAlive);
+
         // Write logs in file
         TownPopulationSimulator.bw.write("year: "+ TownPopulationSimulator.currentYear+"\n");
         TownPopulationSimulator.bw.write("added: "+counterOfAlive+"\n");
-        ourTown.add(counterOfAlive);//add to citizens
+
     }
 
     // Method that simulates deaths in the town's population growth
