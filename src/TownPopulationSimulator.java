@@ -46,8 +46,9 @@ public class TownPopulationSimulator {
             if (year==0) break;
             System.out.println("Population at " + year + " is: " + getPopulationOfYear(year));
         }
-        // Shut down the ExecutorService
+        // Stop simulator thread and close the file
         simulator.stop();
         bw.close();
+        logFile.close();
     }
 }
