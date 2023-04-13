@@ -1,32 +1,92 @@
 year: 2000
-added: 3
+added: 268027
 deaths: 0
 
 year: 2001
-added: 6
-deaths: 3
+added: 235717
+deaths: 3050
 
 year: 2002
-added: 2
-deaths: 2
+added: 757600
+deaths: 5470
 
 year: 2003
-added: 3
-deaths: 5
+added: 370981
+deaths: 14164
 
 year: 2004
-added: 0
-deaths: 2
+added: 531492
+deaths: 18176
 
 year: 2005
-added: 2
-deaths: 2
+added: 276130
+deaths: 24153
 
 year: 2006
-added: 6
-deaths: 1
+added: 674709
+deaths: 27131
 
 year: 2007
-added: 1
-deaths: 4
+added: 180242
+deaths: 34691
+
+year: 2008
+added: 471526
+deaths: 36432
+
+year: 2009
+added: 786239
+deaths: 41762
+
+year: 2010
+added: 528665
+deaths: 50767
+
+year: 2011
+added: 659937
+deaths: 56400
+
+year: 2012
+added: 803209
+deaths: 63376
+
+year: 2013
+added: 986638
+deaths: 73161
+
+year: 2014
+added: 826854
+deaths: 83850
+
+year: 2015
+added: 940748
+deaths: 92839
+
+year: 2016
+added: 510188
+deaths: 103611
+
+year: 2017
+added: 878923
+deaths: 109025
+
+year: 2018
+added: 871509
+deaths: 119367
+
+year: 2019
+added: 477481
+deaths: 128800
+
+year: 2020
+added: 224091
+deaths: 134175
+
+year: 2021
+added: 849275
+deaths: 136434
+
+year: 2022
+added: 10577
+deaths: 145786
 

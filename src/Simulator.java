@@ -36,22 +36,11 @@ public class Simulator implements Runnable {
 
     // Method that simulates births in the town's population growth
     private void birthManager() throws IOException {
+
         // Generate a random number of births
         Random random=new Random();
         int randomNumberOfBirths=random.nextInt(1000000);
 
-        // Loops through the random number of births and adds new Person objects to the town
-        while (randomNumberOfBirths--!=0) {
-            // +1 to avoid 0 age
-            int age = random.nextInt(90) + 1;
-            // If person died in the same year of birth don't add it or count it
-            //if (age != 0) {
-            int personDeathYear=TownPopulationSimulator.currentYear + age;
-            int deathYearCounter = TownPopulationSimulator.getDeathOfYear(personDeathYear)+ 1;
-            TownPopulationSimulator.deathOfYear
-                        .put(personDeathYear, deathYearCounter);
-            //}
-        }
         // Add to citizens
         ourTown.add(randomNumberOfBirths);
 
@@ -59,6 +48,23 @@ public class Simulator implements Runnable {
         TownPopulationSimulator.bw.write("year: "+ TownPopulationSimulator.currentYear+"\n");
         TownPopulationSimulator.bw.write("added: "+randomNumberOfBirths+"\n");
 
+        // Loops through the random number of births to filter them of their death year
+        int age;
+        int personDeathYear;
+        int deathYearCounter;
+        while (randomNumberOfBirths--!=0) {
+
+            // +1 to avoid 0 age
+            age = random.nextInt(90) + 1;
+
+            // Calculate the death year
+            personDeathYear=TownPopulationSimulator.currentYear + age;
+
+            // Increase the deathCount of death year by 1 and update it on deathOfYear
+            deathYearCounter = TownPopulationSimulator.getDeathOfYear(personDeathYear)+ 1;
+            TownPopulationSimulator.deathOfYear
+                        .put(personDeathYear, deathYearCounter);
+        }
     }
 
     // Method that simulates deaths in the town's population growth
